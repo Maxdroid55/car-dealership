@@ -1,0 +1,25 @@
+.cars--container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 7em;
+  margin: 5vh 10vw;
+}
+
+/* 
+Remember to put the following styles to their own stylesheet
+as they are for making the app responsive. */
+@media screen and (max-width: 50em) {
+  h1 {
+    font-size: 4em;
+  }
+
+  h2 {
+    font-size: 3em;
+    margin-bottom: 0;
+  }
+
+  .cars--container {
+    grid-template-columns: 1fr;
+    margin: 5vh 3vw;
+  }
+}

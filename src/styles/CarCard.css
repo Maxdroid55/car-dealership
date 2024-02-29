@@ -1,0 +1,25 @@
+.car--card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.car--card:hover {
+  opacity: .9;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .4);
+  cursor: pointer;
+}
+
+.car--card img {
+  max-width: 100%;
+  height: 60%;
+  align-content: center;
+}
+
+.car--card p {
+  text-align: center;
+  margin: 0;
+  object-fit: cover;
+}

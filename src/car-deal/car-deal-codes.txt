@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #e9e7fd - rgb(233, 231, 253) - hsl(245, 85%, 95%)
+    Background: #02010e - rgb(2, 1, 14) - hsl(245, 87%, 3%)
+    Primary: #1317dd - rgb(19, 23, 221) - hsl(239, 84%, 47%)
+    Secondary: #1f1772 - rgb(31, 23, 114) - hsl(245, 66%, 27%)
+    Accent: #3f31d8 - rgb(63, 49, 216) - hsl(245, 68%, 52%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=e9e7fd-02010e-1317dd-1f1772-3f31d8&fonts=Poppins-Poppins
+
+Thanks for using RealtimeColors.com!
